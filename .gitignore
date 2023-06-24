@@ -1,5 +1,6 @@
 # built artefacts
 node_modules
+dist
 
 *.log
 *.exe
