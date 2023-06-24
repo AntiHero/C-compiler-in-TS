@@ -1,0 +1,4 @@
+# built artefacts
+node_modules
+
+*.log
